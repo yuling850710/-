@@ -1,0 +1,6 @@
+{
+  "name": "天賜藥局｜冬令進補藥膳包預購",
+  "description": "天賜藥局精選冬令進補藥膳包預購專頁。西洋蔘黃金蟲草、經典藥燉排骨、四神湯，多款單品與超值組合優惠，支援購物車試算、Google表單整合回填與LINE快速訂購。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
